@@ -97,10 +97,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
 ### ⚡ Github Stats
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=tokyonight&hide_border=true" alt="Zishan's Streak Status" />
-</p>
+### ⚡ Github Stats
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zishanq7861&bg_color=0f172a&color=1e293b&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Zishan's Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=tokyonight&background=0F172A&hide_border=true" alt="Zishan's Streak Status" />
 </p>
