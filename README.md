@@ -10,7 +10,7 @@
 <a href="https://www.geeksforgeeks.org/profile/zishanq786?tab=overview" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-<img src="https://krisandrews.dev/images/linear-gradient-line.gif" width="100%" height="3px" />
+---
 
 ### Languages and Tools:
 
@@ -44,10 +44,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
 
-<img src="https://krisandrews.dev/images/linear-gradient-line.gif" width="100%" height="3px" />
+---
 
 ### ⚡ Github Stats
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=dark&hide_border=true" alt="Zishan's Streak Status" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=tokyonight&hide_border=false" alt="Zishan's Streak Status" />
 </p>
