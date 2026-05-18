@@ -1,6 +1,6 @@
 # Hi, I'm Zishan Qureshi 👋
 
-<p align="left">"A good programmer is someone who always looks both ways before crossing a one-way street."</p>
+**"A good programmer is someone who always looks both ways before crossing a one-way street."**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/zishan-qureshi-28a963304/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
