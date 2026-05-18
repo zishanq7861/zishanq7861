@@ -50,6 +50,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 </p>
 
+### ⚡ Github Stats
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=tokyonight&hide_border=true" alt="Zishan's Streak Status" />
+</p>
+
 # Hey there, I'm Zishan Qureshi 👋
 
 ### "A good programmer is someone who always looks both ways before crossing a one-way street."
