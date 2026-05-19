@@ -1,14 +1,18 @@
+<div align="center">
+
 # Hi, I'm Zishan Qureshi 👋
 
 **"A good programmer is someone who always looks both ways before crossing a one-way street."**
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/zishan-qureshi-28a963304/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
 <a href="mailto:zqureshi088@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
 <a href="https://github.com/zishanq7861" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a> &nbsp;
 <a href="https://leetcode.com/u/zishanq786/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a> &nbsp;
 <a href="https://www.geeksforgeeks.org/profile/zishanq786?tab=overview" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
