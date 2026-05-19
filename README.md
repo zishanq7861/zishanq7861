@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zishan Qureshi 👋
+# Hi, I'm Zishan Qureshi <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&width=435&lines=👋;+Welcome+to+my+space!;+Let's+build+something+cool!" alt="Typing SVG" />
 
 **"A good programmer is someone who always looks both ways before crossing a one-way street."**
 
