@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zishan Qureshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle; margin-bottom: 8px;">
+# Hi, I'm Zishan Qureshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle; margin-bottom: 10px;">
 **"A good programmer is someone who always looks both ways before crossing a one-way street."**
 
 <p align="center">
