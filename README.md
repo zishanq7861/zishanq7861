@@ -46,7 +46,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
   <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://www.logo.wine/a/logo/Cloudinary/Cloudinary-Logo.wine.svg" alt="cloudinary" width="80" height="40"/> &nbsp;
+  <img src="https://logokit.com/logo/domains/cloudinary.com/symbol.svg?response-content-disposition=attachment%3B%20filename%3D%22cloudinary.com_symbol.svg%22%3B%20filename%2A%3DUTF-8%27%27cloudinary.com_symbol.svg&response-content-type=image%2Fsvg%2Bxml&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=43f52174bc277c9a81cf4070ede2dc8f%2F20260519%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260519T065811Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3066e694e6f58a1216d0ba84331d9cb6158132694a2d5a93751e1f8c9e267bdd" alt="cloudinary" width="80" height="40"/> &nbsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
