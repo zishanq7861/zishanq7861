@@ -51,7 +51,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### ⚡ Github Stats
+### Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zishanq7861&theme=neon_blurange&background=020615&hide_border=true" alt="Zishan's Streak Status" />
