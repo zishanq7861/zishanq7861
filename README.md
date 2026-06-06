@@ -5,9 +5,10 @@
 
 
  <p align="center">
-<a href="YOUR_PORTFOLIO_URL_HERE" target="blank">
+<!-- <a href="YOUR_PORTFOLIO_URL_HERE" target="blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-1D4ED8?style=for-the-badge&logo=devto&logoColor=white" alt="Portfolio" />
-  </a> &nbsp;
+  </a> &nbsp; -->
+  <a href="YOUR_PORTFOLIO_URL_HERE" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-1D4ED8?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/zishan-qureshi-28a963304/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
 <a href="mailto:zqureshi088@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
 <a href="https://leetcode.com/u/zishanq786/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a> &nbsp;
