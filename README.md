@@ -10,7 +10,7 @@
 <a href="mailto:zqureshi088@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
 <a href="https://leetcode.com/u/zishanq786/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a> &nbsp;
 <a href="https://x.com/zishanq786" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+  <img src="https://img.shields.io/badge/@zishanq786-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
 </a>
 
 </div>
