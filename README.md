@@ -113,7 +113,7 @@ I'm a **Generative AI Engineer** and **B.Tech AI student** passionate about buil
 ---
 
 
-<center>📬 Reach me at **zqureshi088@gmail.com** </center>
+📬 Reach me at **zqureshi088@gmail.com**
 
 </div>
 
